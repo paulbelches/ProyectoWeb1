@@ -1,6 +1,6 @@
-import React, { Component } from "react";
-const magnifyingGlass1 = require("../Images/magnifyingGlass1.png");
-const magnifyingGlass2 = require("../Images/magnifyingGlass2.png");
+import React, { Component } from "react"
+const magnifyingGlass1 = require("../Images/magnifyingGlass1.png")
+const magnifyingGlass2 = require("../Images/magnifyingGlass2.png")
 
 class Logo2k extends Component {
     constructor(props) {
@@ -219,4 +219,4 @@ class Logo2k extends Component {
     }
   }
 
-  export default TopBar;
+  export default TopBar

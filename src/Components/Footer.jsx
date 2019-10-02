@@ -1,11 +1,11 @@
-import React, { Component } from "react";
+import React, { Component } from "react"
 
-const FooterLogo = require("../Images/FooterLogo.png");
-const facebook = require("../Images/facebook.png");
-const twitter = require("../Images/twitter.png");
-const youtube = require("../Images/youtube.png");
-const twich = require("../Images/twich.png");
-const instagram = require("../Images/instagram.png");
+const FooterLogo = require("../Images/FooterLogo.png")
+const facebook = require("../Images/facebook.png")
+const twitter = require("../Images/twitter.png")
+const youtube = require("../Images/youtube.png")
+const twich = require("../Images/twich.png")
+const instagram = require("../Images/instagram.png")
 
 class Text2k extends Component {
     constructor(props) {
@@ -184,4 +184,4 @@ class Text2k extends Component {
       )
     }
   }
-  export default Footer;
+  export default Footer

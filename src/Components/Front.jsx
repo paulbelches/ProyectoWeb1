@@ -1,5 +1,5 @@
-import React, { Component } from "react";
-const front = require("../Images/front.png");
+import React, { Component } from "react"
+const front = require("../Images/front.png")
 
 class Text2kBig extends Component {
     constructor(props) {
@@ -217,4 +217,4 @@ class Text2kBig extends Component {
     }
   } 
 
-  export default Front;
+  export default Front

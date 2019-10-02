@@ -1,4 +1,4 @@
-    import React, { Component } from "react";
+    import React, { Component } from "react"
     
       class Card extends Component {
         constructor(props) {
@@ -71,6 +71,7 @@
             size: '24px',
             ml: '8px'
           }
+
         }
         mouseEnter() {
           this.setState({size: '44px',ml: '4px'})
@@ -98,7 +99,7 @@
     
           return (
             <div onMouseOver={this.mouseEnter.bind(this)} onMouseLeave={this.mouseLeave.bind(this)} onClick={this.props.click} style={Margin}>
-              <p style={text}>&#x3c;</p>    
+              <p style={text}>&#x3c;</p>
             </div>
           )
         }
@@ -280,4 +281,4 @@
           )
         }
       }
-      export default CardContainer;
+      export default CardContainer
