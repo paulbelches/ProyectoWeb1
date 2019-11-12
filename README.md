@@ -8,8 +8,6 @@ site.
 
 ## Features
 
-This boilerplate features all the latest tools and practices in the industry.
-
 - **React** — 16.10.1-alpha.0 with Hooks
 - **Babel** — Parser Babel-Eslint
 - **Webpack**  — Hot Reloading, Code Splitting, Optimized Build
