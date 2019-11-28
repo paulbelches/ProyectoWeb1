@@ -2,9 +2,7 @@
 
 ## Description
 
-Using a webpack boiler plate, this project 
-is a copy of the Bioshock infinite official 
-site.
+The objective of this project is to develop a copy of the Bioshock infinite official site using React and other technologies such as Webpack as a module bundler, Babel as a javascript transpiler and Eslint for linting . 
 
 ## Features
 
